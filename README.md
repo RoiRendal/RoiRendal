@@ -1,9 +1,11 @@
+---
+
 <div align="center">
-  <h3>Hey there!</h3>
+  <h1>Hey there!</h1>
 </div>
 
 ---
-This account is dedicated to creating necessary repositories for completing and complying with several subjects in BSIT from 1st year to 4th year.
+This account is targeted to creating necessary repositories for completing and complying with several subjects in BSIT from 1st year to 4th year.
 
 ---
 
@@ -16,3 +18,5 @@ This account is dedicated to creating necessary repositories for completing and 
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roirendal&show_icons=true&locale=en" alt="roirendal" /></p>
 </div>
+
+---
